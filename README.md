@@ -95,3 +95,11 @@ Compilation of materials that exemplifies beliefs, skills, qualifications, educa
 
 
     ## nbformat
+
+
+    ## fpdf
+        Gerador de PDF
+        pip install fpdf
+        import fpdf
+
+        
