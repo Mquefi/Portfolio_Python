@@ -102,4 +102,12 @@ Compilation of materials that exemplifies beliefs, skills, qualifications, educa
         pip install fpdf
         import fpdf
 
+    ## NumPy
+    ## SciPy
+    ## Dask
+    ## Seaborn
+
+    ## Bokeh
+    ## Altair
+        
         
